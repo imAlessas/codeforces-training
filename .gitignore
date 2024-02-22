@@ -1,2 +1,5 @@
+# ignore VSCode folder
+.vscode
+
 # ignore compiled C++ files
 *.exe
