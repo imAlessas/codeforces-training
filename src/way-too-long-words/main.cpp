@@ -1,6 +1,7 @@
 /* 
-   Author: @imAlessas
-   Problem: https://codeforces.com/problemset/problem/71/A
+   Author:  @imAlessas
+   Problem: 71A - Way Too Long Words
+            https://codeforces.com/problemset/problem/71/A
 */
 
 #include <iostream>

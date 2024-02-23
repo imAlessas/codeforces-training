@@ -1,6 +1,7 @@
 /* 
-   Author: @imAlessas
-   Problem: https://codeforces.com/problemset/problem/4/A
+   Author:  @imAlessas
+   Problem: 4A - Watermelon
+            https://codeforces.com/problemset/problem/4/A
 */
 
 #include <iostream>

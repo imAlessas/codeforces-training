@@ -1,6 +1,7 @@
 /* 
-   Author: @imAlessas
-   Problem: https://codeforces.com/problemset/problem/282/A
+   Author:  @imAlessas
+   Problem: 282A - Bit++
+            https://codeforces.com/problemset/problem/282/A
 */
 
 #include <iostream>

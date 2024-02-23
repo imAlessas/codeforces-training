@@ -1,6 +1,7 @@
 /* 
-   Author: @imAlessas
-   Problem: https://codeforces.com/problemset/problem/231/A
+   Author:  @imAlessas
+   Problem: 231A - Team
+            https://codeforces.com/problemset/problem/231/A
 */
 
 #include <iostream>

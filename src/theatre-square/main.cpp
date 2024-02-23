@@ -1,7 +1,8 @@
-// /* 
-//    Author: @imAlessas
-//    Problem: https://codeforces.com/problemset/problem/1/A
-// */
+/* 
+   Author:  @imAlessas
+   Problem: 1A - Theatre Square
+            https://codeforces.com/problemset/problem/1/A
+*/
 
 #include <iostream>
 
