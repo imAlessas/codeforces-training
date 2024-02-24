@@ -3,3 +3,6 @@
 
 # ignore compiled C++ files
 *.exe
+
+# ignore temporary code-runner file
+tempCodeRunnerFile.cpp
