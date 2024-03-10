@@ -16,9 +16,10 @@ This repository contains my solutions to some CodeForces exercises. In this MD f
 | [`158A`](https://codeforces.com/problemset/problem/158/A) | Next Round | 800 | [<img src="res/bright-light-bulb.svg">](src/next-round/main.cpp) | 60 ms | 0 KB |
 | [`231A`](https://codeforces.com/problemset/problem/231/A) | Team | 800 | [<img src="res/bright-light-bulb.svg">](src/team/main.cpp) | 30 ms | 0 KB |
 | [`282A`](https://codeforces.com/problemset/problem/282/A) | Bit++ | 800 | [<img src="res/bright-light-bulb.svg">](src/bit++/main.cpp) | 15 ms | 0 KB |
+| [`1912L`](https://codeforces.com/problemset/problem/1912/L) | LOL Lovers | 800 | [<img src="res/bright-light-bulb.svg">](src/LOL-lovers/main.cpp) | 15 ms | 0 KB |
 | [`1931C`](https://codeforces.com/problemset/problem/1931/C) | Make Equal Again | 1000 | [<img src="res/bright-light-bulb.svg">](src/make-equal-again/main.cpp) | 264 ms | 2100 KB |
 | [`1931D`](https://codeforces.com/problemset/problem/1931/D) | Divisible Pairs | 1300 | [<img src="res/thinking.svg">](src/divisible-pairs/main.cpp) | / ms | / KB |
 
 <!--
-| [`N`](https://codeforces.com/problemset/problem/) | Name | Diff | [<img src="res/bright-light-bulb.svg">](src/folder/main.cpp) | / ms | / KB |
+| [`N`](https://codeforces.com/problemset/problem/) | Name | Difficulty | [<img src="res/bright-light-bulb.svg">](src/folder/main.cpp) | ms | KB |
 -->
