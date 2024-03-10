@@ -6,3 +6,6 @@
 
 # ignore temporary code-runner file
 tempCodeRunnerFile.cpp
+
+# ignore template folder
+template
