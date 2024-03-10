@@ -19,6 +19,7 @@ This repository contains my solutions to some CodeForces exercises. In this MD f
 | [`1912L`](https://codeforces.com/problemset/problem/1912/L) | LOL Lovers | 800 | [<img src="res/bright-light-bulb.svg">](src/LOL-lovers/main.cpp) | 15 ms | 0 KB |
 | [`1931C`](https://codeforces.com/problemset/problem/1931/C) | Make Equal Again | 1000 | [<img src="res/bright-light-bulb.svg">](src/make-equal-again/main.cpp) | 264 ms | 2100 KB |
 | [`1931D`](https://codeforces.com/problemset/problem/1931/D) | Divisible Pairs | 1300 | [<img src="res/thinking.svg">](src/divisible-pairs/main.cpp) | / ms | / KB |
+| [`1931E`](https://codeforces.com/problemset/problem/1931/E) | Anna and the Valentine's Day Gift | 1400 | [<img src="res/thinking.svg">](src/anna-and-the-valentines-day-gift/main.cpp) | ms | KB |
 
 <!--
 | [`N`](https://codeforces.com/problemset/problem/) | Name | Difficulty | [<img src="res/bright-light-bulb.svg">](src/folder/main.cpp) | ms | KB |
