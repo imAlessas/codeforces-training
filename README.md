@@ -19,7 +19,7 @@ This repository contains my solutions to some CodeForces exercises. In this MD f
 | [`1912L`](https://codeforces.com/problemset/problem/1912/L) | LOL Lovers | [<img src="res/bright-light-bulb.svg">](src/LOL-lovers/main.cpp) | 800 | 15 ms | 0 KB |
 | [`1931C`](https://codeforces.com/problemset/problem/1931/C) | Make Equal Again | [<img src="res/bright-light-bulb.svg">](src/make-equal-again/main.cpp) | 1000 | 264 ms | 2100 KB |
 | [`1931D`](https://codeforces.com/problemset/problem/1931/D) | Divisible Pairs | [<img src="res/time-fail.svg">](src/divisible-pairs/main.cpp) | 1300 | / ms | / KB |
-| [`1931E`](https://codeforces.com/problemset/problem/1931/E) | Anna and the Valentine's Day Gift | [<img src="res/memory-fail.svg">](src/anna-and-the-valentines-day-gift/main.cpp) | 1400 | ms | KB |
+| [`1931E`](https://codeforces.com/problemset/problem/1931/E) | Anna and the Valentine's Day Gift | [<img src="res/thinking.svg">](src/anna-and-the-valentines-day-gift/main.cpp) | 1400 | ms | KB |
 
 <!--
 | [`N`](https://codeforces.com/problemset/problem/) | Name | [<img src="res/bright-light-bulb.svg">](src/folder/main.cpp) | Difficulty | ms | KB |
