@@ -13,12 +13,13 @@ bool is_divisible(const int&, const int&);
 bool is_beautyful_pair(const int&, const int&, const int&, const int&);
 
 int main() {
-    int t, n, x, y, a, count = 0;
+    int t, n, x, y, a, count;
     cin >> t;
 
-    vector<int> v = {};  
+    vector<int> v;  
 
     while(t--){
+        count = 0; v = {};
         cin >> n >> x >> y;
 
         while(n--){
@@ -32,8 +33,6 @@ int main() {
             
         }
         cout << count << endl;
-        count = 0;
-        v.clear();
     }
 
     return 0;
