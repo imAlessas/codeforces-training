@@ -17,6 +17,7 @@ This repository contains my solutions to some CodeForces exercises. In this MD f
 | [`231A`](https://codeforces.com/problemset/problem/231/A) | Team | [<img src="res/solution.svg">](src/team/main.cpp) | 800 | 30 ms | 0 KB |
 | [`282A`](https://codeforces.com/problemset/problem/282/A) | Bit++ | [<img src="res/solution.svg">](src/bit++/main.cpp) | 800 | 15 ms | 0 KB |
 | [`1912L`](https://codeforces.com/problemset/problem/1912/L) | LOL Lovers | [<img src="res/solution.svg">](src/LOL-lovers/main.cpp) | 800 | 15 ms | 0 KB |
+| [`1918B`](https://codeforces.com/problemset/problem/1918//B) | Minimize Inversions | [<img src="res/solution.svg">](src/minimize-inversions/main.cpp) | 900 | 639  ms | 5400 KB |
 | [`1927B`](https://codeforces.com/problemset/problem/1927/B) | Following the String | [<img src="res/solution.svg">](src/following-the-string/main.cpp) | 900 | 265 ms |  600 KB |
 | [`1931C`](https://codeforces.com/problemset/problem/1931/B) | Make Equal | [<img src="res/solution.svg">](src/make-equal/main.cpp) | 800 | 358 ms | 1600 KB |
 | [`1931C`](https://codeforces.com/problemset/problem/1931/C) | Make Equal Again | [<img src="res/solution.svg">](src/make-equal-again/main.cpp) | 1000 | 264 ms | 2100 KB |
