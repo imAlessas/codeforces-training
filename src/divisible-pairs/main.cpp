@@ -14,12 +14,13 @@ bool is_beautyful_pair(const int&, const int&, const int&, const int&);
 
 int main() {
     int t, n, x, y, a, count;
-    cin >> t;
+    vector<int> v;
 
-    vector<int> v;  
+    cin >> t;
 
     while(t--){
         count = 0; v = {};
+               
         cin >> n >> x >> y;
 
         while(n--){
@@ -49,5 +50,5 @@ bool is_beautyful_pair(const int& i, const int& j, const int& x, const int& y){
 
 // check if a number is divisible by another
 bool is_divisible(const int& number, const int& divisor){
-    return (number % divisor) == 0;
+    return !(number % divisor);
 } // is_divisible
