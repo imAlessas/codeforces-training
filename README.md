@@ -15,6 +15,7 @@ This repository contains my solutions to some CodeForces exercises. In this MD f
 | [`118`](https://codeforces.com/problemset/problem/118/A) | String Task | [<img src="res/solution.svg">](src/string-task/main.cpp) | 1000 | 30 ms | 0 KB |
 | [`158A`](https://codeforces.com/problemset/problem/158/A) | Next Round | [<img src="res/solution.svg">](src/next-round/main.cpp) | 800 | 60 ms | 0 KB |
 | [`231A`](https://codeforces.com/problemset/problem/231/A) | Team | [<img src="res/solution.svg">](src/team/main.cpp) | 800 | 30 ms | 0 KB |
+| [`263A`](https://codeforces.com/problemset/problem/263/A) | Beautiful Matrix | [<img src="res/solution.svg">](src/beautiful-matrix/main.cpp) | 800 | 0 ms | 0 KB |
 | [`282A`](https://codeforces.com/problemset/problem/282/A) | Bit++ | [<img src="res/solution.svg">](src/bit++/main.cpp) | 800 | 15 ms | 0 KB |
 | [`1912L`](https://codeforces.com/problemset/problem/1912/L) | LOL Lovers | [<img src="res/solution.svg">](src/LOL-lovers/main.cpp) | 800 | 15 ms | 0 KB |
 | [`1918B`](https://codeforces.com/problemset/problem/1918//B) | Minimize Inversions | [<img src="res/solution.svg">](src/minimize-inversions/main.cpp) | 900 | 639  ms | 5400 KB |
@@ -29,3 +30,5 @@ This repository contains my solutions to some CodeForces exercises. In this MD f
 -->
 
 <!-- SVG: www.svgrepo.com, line white, size 45px padding 50% -->
+
+https://codeforces.com/problemset/problem/263/A
