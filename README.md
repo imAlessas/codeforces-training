@@ -30,5 +30,3 @@ This repository contains my solutions to some CodeForces exercises. In this MD f
 -->
 
 <!-- SVG: www.svgrepo.com, line white, size 45px padding 50% -->
-
-https://codeforces.com/problemset/problem/263/A
