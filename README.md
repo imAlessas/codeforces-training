@@ -20,10 +20,12 @@ This repository contains my solutions to some CodeForces exercises. In this MD f
 | [`1912L`](https://codeforces.com/problemset/problem/1912/L) | LOL Lovers | [<img src="res/solution.svg">](src/LOL-lovers/main.cpp) | 800 | 15 ms | 0 KB |
 | [`1918B`](https://codeforces.com/problemset/problem/1918//B) | Minimize Inversions | [<img src="res/solution.svg">](src/minimize-inversions/main.cpp) | 900 | 639  ms | 5400 KB |
 | [`1927B`](https://codeforces.com/problemset/problem/1927/B) | Following the String | [<img src="res/solution.svg">](src/following-the-string/main.cpp) | 900 | 265 ms |  600 KB |
-| [`1931C`](https://codeforces.com/problemset/problem/1931/B) | Make Equal | [<img src="res/solution.svg">](src/make-equal/main.cpp) | 800 | 358 ms | 1600 KB |
+| [`1931B`](https://codeforces.com/problemset/problem/1931/B) | Make Equal | [<img src="res/solution.svg">](src/make-equal/main.cpp) | 800 | 358 ms | 1600 KB |
 | [`1931C`](https://codeforces.com/problemset/problem/1931/C) | Make Equal Again | [<img src="res/solution.svg">](src/make-equal-again/main.cpp) | 1000 | 264 ms | 2100 KB |
 | [`1931D`](https://codeforces.com/problemset/problem/1931/D) | Divisible Pairs | [<img src="res/time-fail.svg">](src/divisible-pairs/main.cpp) | 1300 | / ms | / KB |
 | [`1931E`](https://codeforces.com/problemset/problem/1931/E) | Anna and the Valentine's Day Gift | [<img src="res/thinking.svg">](src/anna-and-the-valentines-day-gift/main.cpp) | 1400 | ms | KB |
+| [`1950A`](https://codeforces.com/contest/1950/problem/A) | Stair, Peak, or Neither? | [<img src="res/solution.svg">](src/folder/main.cpp) | ? | 15 ms | 0 KB |
+
 
 <!--
 | [`N`](https://codeforces.com/problemset/problem/) | Name | [<img src="res/solution.svg">](src/folder/main.cpp) | Difficulty | ms | KB |
