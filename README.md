@@ -24,8 +24,9 @@ This repository contains my solutions to some CodeForces exercises. In this MD f
 | [`1931C`](https://codeforces.com/problemset/problem/1931/C) | Make Equal Again | [<img src="res/solution.svg">](src/make-equal-again/main.cpp) | 1000 | 264 ms | 2100 KB |
 | [`1931D`](https://codeforces.com/problemset/problem/1931/D) | Divisible Pairs | [<img src="res/time-fail.svg">](src/divisible-pairs/main.cpp) | 1300 | / ms | / KB |
 | [`1931E`](https://codeforces.com/problemset/problem/1931/E) | Anna and the Valentine's Day Gift | [<img src="res/thinking.svg">](src/anna-and-the-valentines-day-gift/main.cpp) | 1400 | ms | KB |
-| [`1950A`](https://codeforces.com/problemset/problem/1950/A) | Stair, Peak, or Neither? | [<img src="res/solution.svg">](src/folder/main.cpp) | ? | 15 ms | 0 KB |
-| [`1950B`](https://codeforces.com/problemset/problem/1950/B) | Upscaling | [<img src="res/solution.svg">](src/folder/main.cpp) | ? | 15 ms | 0 KB |
+| [`1950A`](https://codeforces.com/problemset/problem/1950/A) | Stair, Peak, or Neither? | [<img src="res/solution.svg">](src/stair-peak-or-neither/main.cpp) | ? | 15 ms | 0 KB |
+| [`1950B`](https://codeforces.com/problemset/problem/1950/B) | Upscaling | [<img src="res/solution.svg">](src/upscaling/main.cpp) | ? | 15 ms | 0 KB |
+| [`1950C`](https://codeforces.com/problemset/problem/1950/C) | Clock Conversion | [<img src="res/solution.svg">](src/clock-conversion/main.cpp) | ? | 0 ms | 0 KB |
 
 
 <!--
