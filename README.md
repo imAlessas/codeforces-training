@@ -27,6 +27,7 @@ This repository contains my solutions to some CodeForces exercises. In this MD f
 | [`1950A`](https://codeforces.com/problemset/problem/1950/A) | Stair, Peak, or Neither? | [<img src="res/solution.svg">](src/stair-peak-or-neither/main.cpp) | ? | 15 ms | 0 KB |
 | [`1950B`](https://codeforces.com/problemset/problem/1950/B) | Upscaling | [<img src="res/solution.svg">](src/upscaling/main.cpp) | ? | 15 ms | 0 KB |
 | [`1950C`](https://codeforces.com/problemset/problem/1950/C) | Clock Conversion | [<img src="res/solution.svg">](src/clock-conversion/main.cpp) | ? | 0 ms | 0 KB |
+| [`1950D`](https://codeforces.com/problemset/problem/1950/D) | Product of Binary Decimals | [<img src="res/thinking.svg">](src/product-of-binary-decimals/main.cpp) | ? | / ms | / KB |
 
 
 <!--
