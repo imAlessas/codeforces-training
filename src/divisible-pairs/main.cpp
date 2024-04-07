@@ -8,11 +8,19 @@
 
 using namespace std;
 
+
 // function definition
+
 bool is_divisible(const int&, const int&);
+
 bool is_beautiful_pair(const int&, const int&, const int&, const int&);
 
+
 int main() {
+    
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL); 
+
     int t, n, x, y, a, count;
     vector<int> v;
 
