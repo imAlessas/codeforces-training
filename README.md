@@ -19,6 +19,7 @@ This repository contains my solutions to some CodeForces exercises. In this MD f
 | [`282A`](https://codeforces.com/problemset/problem/282/A) | Bit++ | [<img src="res/solution.svg">](src/bit++/main.cpp) | 800 | 15 ms | 0 KB |
 | [`1904A`](https://codeforces.com/problemset/problem/1904/A) | Forked! | [<img src="res/solution.svg">](src/forked/main.cpp) | 900 | 31 ms | 0 KB |
 | [`1912L`](https://codeforces.com/problemset/problem/1912/L) | LOL Lovers | [<img src="res/solution.svg">](src/LOL-lovers/main.cpp) | 800 | 15 ms | 0 KB |
+| [`1915A`](https://codeforces.com/problemset/problem/1915/A) | Odd One Out | [<img src="res/solution.svg">](src/odd-one-out/main.cpp) | 800 | 46 ms | 100 KB |
 | [`1918B`](https://codeforces.com/problemset/problem/1918//B) | Minimize Inversions | [<img src="res/solution.svg">](src/minimize-inversions/main.cpp) | 900 | 639  ms | 5400 KB |
 | [`1927B`](https://codeforces.com/problemset/problem/1927/B) | Following the String | [<img src="res/solution.svg">](src/following-the-string/main.cpp) | 900 | 265 ms |  600 KB |
 | [`1930A`](https://codeforces.com/problemset/problem/1930/A) | Maximise The Score | [<img src="res/solution.svg">](src/maximise-the-score/main.cpp) | 800 | 140 ms | 0 KB |
