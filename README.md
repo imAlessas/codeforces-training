@@ -1,6 +1,6 @@
 # Codeforces solutions
 
-This repository contains my solutions to some CodeForces exercises. In this MD file, there is an ordered table where you can find the link to the problem guidelines, my solution and the time and memory complexity of my solution.
+This repository contains my solutions to some CodeForces exercises. In the table, for each problem, you will find the link to the problem'a guidelines, my solution and its time and memory complexity.
 
 ## Problems
 
