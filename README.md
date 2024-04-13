@@ -17,6 +17,7 @@ This repository contains my solutions to some CodeForces exercises. In the table
 | [`231A`](https://codeforces.com/problemset/problem/231/A) | Team | [<img src="res/solution.svg">](src/team/main.cpp) | 800 | 30 ms | 0 KB |
 | [`263A`](https://codeforces.com/problemset/problem/263/A) | Beautiful Matrix | [<img src="res/solution.svg">](src/beautiful-matrix/main.cpp) | 800 | 0 ms | 0 KB |
 | [`282A`](https://codeforces.com/problemset/problem/282/A) | Bit++ | [<img src="res/solution.svg">](src/bit++/main.cpp) | 800 | 15 ms | 0 KB |
+| [`1875A`](https://codeforces.com/problemset/problem/1875/A) | Jellyfish and Undertale | [<img src="res/time-fail.svg">](src/jellyfish-and-undertale/main.cpp) | 900 | / ms | / KB |
 | [`1904A`](https://codeforces.com/problemset/problem/1904/A) | Forked! | [<img src="res/solution.svg">](src/forked/main.cpp) | 900 | 31 ms | 0 KB |
 | [`1912L`](https://codeforces.com/problemset/problem/1912/L) | LOL Lovers | [<img src="res/solution.svg">](src/LOL-lovers/main.cpp) | 800 | 15 ms | 0 KB |
 | [`1915A`](https://codeforces.com/problemset/problem/1915/A) | Odd One Out | [<img src="res/solution.svg">](src/odd-one-out/main.cpp) | 800 | 46 ms | 100 KB |
@@ -36,7 +37,7 @@ This repository contains my solutions to some CodeForces exercises. In the table
 | [`1950B`](https://codeforces.com/problemset/problem/1950/B) | Upscaling | [<img src="res/solution.svg">](src/upscaling/main.cpp) | / | 15 ms | 0 KB |
 | [`1950C`](https://codeforces.com/problemset/problem/1950/C) | Clock Conversion | [<img src="res/solution.svg">](src/clock-conversion/main.cpp) | / | 0 ms | 0 KB |
 | [`1950D`](https://codeforces.com/problemset/problem/1950/D) | Product of Binary Decimals | [<img src="res/thinking.svg">](src/product-of-binary-decimals/main.cpp) | / | / ms | / KB |
-| [`1952H`](https://codeforces.com/problemset/problem/1952/H) | Palindrome | [<img src="res/thinking.svg">](src/palindrome/main.cpp) | / | ms | KB |
+| [`1952H`](https://codeforces.com/problemset/problem/1952/H) | Palindrome | [<img src="res/thinking.svg">](src/palindrome/main.cpp) | / | / ms | / KB |
 
 
 <!--
