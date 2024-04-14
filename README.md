@@ -11,6 +11,7 @@ This repository contains my solutions to some CodeForces exercises. In the table
 | [`1C`](https://codeforces.com/problemset/problem/1/C) | Ancient Berland Circus | [<img src="res/thinking.svg">](src/ancient-berland-circus/main.cpp) | 2100 | / ms | / KB |
 | [`4A`](https://codeforces.com/problemset/problem/4/A) | Watermelon | [<img src="res/solution.svg">](src/watermelon/main.cpp) | 800 | 30 ms | 0 KB |
 | [`4C`](https://codeforces.com/problemset/problem/4/C) | Registration system | [<img src="res/solution.svg">](src/registration-system/main.cpp) | 1300 | 1994 ms | 1300  KB |
+| [`50A`](https://codeforces.com/problemset/problem/50/A) | Domino Piling | [<img src="res/solution.svg">](src/domino-piling/main.cpp) | 800 | 154 ms | 100 KB |
 | [`71A`](https://codeforces.com/problemset/problem/71/A) | Way Too Long Words | [<img src="res/solution.svg">](src/way-too-long-words/main.cpp) | 800 | 15 ms | 0 KB |
 | [`118`](https://codeforces.com/problemset/problem/118/A) | String Task | [<img src="res/solution.svg">](src/string-task/main.cpp) | 1000 | 30 ms | 0 KB |
 | [`158A`](https://codeforces.com/problemset/problem/158/A) | Next Round | [<img src="res/solution.svg">](src/next-round/main.cpp) | 800 | 60 ms | 0 KB |
