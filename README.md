@@ -35,10 +35,10 @@ This repository contains my solutions to some CodeForces exercises. In the table
 | [`1941A`](https://codeforces.com/problemset/problem/1941/A) | Rudolf and the Ticket | [<img src="res/solution.svg">](src/rudolf-and-the-ticket/main.cpp) | 800 | 46 ms | 0 KB |
 | [`1944A`](https://codeforces.com/problemset/problem/1944/A) | Destroying Bridges | [<img src="res/solution.svg">](src/destroying-bridges/main.cpp) | 800 | 46 ms | 0 KB |
 | [`1948A`](https://codeforces.com/problemset/problem/1948/A) | Special Characters | [<img src="res/solution.svg">](src/special-characters/main.cpp) | 800 | 30 ms | 0 KB |
-| [`1950A`](https://codeforces.com/problemset/problem/1950/A) | Stair, Peak, or Neither? | [<img src="res/solution.svg">](src/stair-peak-or-neither/main.cpp) | / | 15 ms | 0 KB |
-| [`1950B`](https://codeforces.com/problemset/problem/1950/B) | Upscaling | [<img src="res/solution.svg">](src/upscaling/main.cpp) | / | 15 ms | 0 KB |
-| [`1950C`](https://codeforces.com/problemset/problem/1950/C) | Clock Conversion | [<img src="res/solution.svg">](src/clock-conversion/main.cpp) | / | 0 ms | 0 KB |
-| [`1950D`](https://codeforces.com/problemset/problem/1950/D) | Product of Binary Decimals | [<img src="res/thinking.svg">](src/product-of-binary-decimals/main.cpp) | / | / ms | / KB |
+| [`1950A`](https://codeforces.com/problemset/problem/1950/A) | Stair, Peak, or Neither? | [<img src="res/solution.svg">](src/stair-peak-or-neither/main.cpp) | 800 | 15 ms | 0 KB |
+| [`1950B`](https://codeforces.com/problemset/problem/1950/B) | Upscaling | [<img src="res/solution.svg">](src/upscaling/main.cpp) | 800 | 15 ms | 0 KB |
+| [`1950C`](https://codeforces.com/problemset/problem/1950/C) | Clock Conversion | [<img src="res/solution.svg">](src/clock-conversion/main.cpp) | 800 | 0 ms | 0 KB |
+| [`1950D`](https://codeforces.com/problemset/problem/1950/D) | Product of Binary Decimals | [<img src="res/thinking.svg">](src/product-of-binary-decimals/main.cpp) | 1100 | / ms | / KB |
 | [`1952H`](https://codeforces.com/problemset/problem/1952/H) | Palindrome | [<img src="res/thinking.svg">](src/palindrome/main.cpp) | / | / ms | / KB |
 
 
