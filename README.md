@@ -18,6 +18,7 @@ This repository contains my solutions to some CodeForces exercises. In the table
 | [`231A`](https://codeforces.com/problemset/problem/231/A) | Team | [<img src="res/solution.svg">](src/team/main.cpp) | 800 | 30 ms | 0 KB |
 | [`263A`](https://codeforces.com/problemset/problem/263/A) | Beautiful Matrix | [<img src="res/solution.svg">](src/beautiful-matrix/main.cpp) | 800 | 0 ms | 0 KB |
 | [`282A`](https://codeforces.com/problemset/problem/282/A) | Bit++ | [<img src="res/solution.svg">](src/bit++/main.cpp) | 800 | 15 ms | 0 KB |
+| [`1703B`](https://codeforces.com/problemset/problem/1703/B) | ICPC Balloons | [<img src="res/solution.svg">](src/ICPC-balloons/main.cpp) | 800 | 46 ms | 0 KB |
 | [`1839A`](https://codeforces.com/problemset/problem/1839/A) | The Good Array | [<img src="res/solution.svg">](src/the-good-array/main.cpp) | 800 | 61 ms | 100 KB |
 | [`1875A`](https://codeforces.com/problemset/problem/1875/A) | Jellyfish and Undertale | [<img src="res/solution.svg">](src/jellyfish-and-undertale/main.cpp) | 900 | 93 ms | 0 KB |
 | [`1904A`](https://codeforces.com/problemset/problem/1904/A) | Forked! | [<img src="res/solution.svg">](src/forked/main.cpp) | 900 | 31 ms | 0 KB |
