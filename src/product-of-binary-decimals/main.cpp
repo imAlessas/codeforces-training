@@ -13,7 +13,7 @@ using namespace std;
 vector<int> get_all_binary_decimals(const int&);
 
 
-bool check_product(const int&, const vector<int>&, int);
+bool check_product(const int&, const vector<int>&, const int&);
 
 
 
@@ -49,12 +49,12 @@ int main() {
 
 
 // checks if the number can be written as a prduct of binary decimals
-bool check_product(const int& n, const vector<int>& bin_dec, int idx){
+bool check_product(const int& n, const vector<int>& bin_dec, const int& idx){
 
     if(n == 1)
         return true;
 
-    for(int i = idx; i < bin_dec.size(); i++){
+    for(int i = idx; i < bin_dec.size() - 1; i++){
 
         if( !(n % bin_dec[i]) )
             if( check_product(n / bin_dec[i], bin_dec, i) )
