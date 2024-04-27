@@ -30,8 +30,8 @@ This repository contains my solutions to some CodeForces exercises. In the table
 | [`1931A`](https://codeforces.com/problemset/problem/1931/A) | Recovering a Small String | [<img src="res/solution.svg">](src/recovering-a-small-string/main.cpp) | 800 | 46 ms | 0 KB |
 | [`1931B`](https://codeforces.com/problemset/problem/1931/B) | Make Equal | [<img src="res/solution.svg">](src/make-equal/main.cpp) | 800 | 358 ms | 1600 KB |
 | [`1931C`](https://codeforces.com/problemset/problem/1931/C) | Make Equal Again | [<img src="res/solution.svg">](src/make-equal-again/main.cpp) | 1000 | 264 ms | 2100 KB |
-| [`1931D`](https://codeforces.com/problemset/problem/1931/D) | Divisible Pairs | [<img src="res/time-fail.svg">](src/divisible-pairs/main.cpp) | 1300 | / ms | / KB |
-| [`1931E`](https://codeforces.com/problemset/problem/1931/E) | Anna and the Valentine's Day Gift | [<img src="res/thinking.svg">](src/anna-and-the-valentines-day-gift/main.cpp) | 1400 | ms | KB |
+| [`1931D`](https://codeforces.com/problemset/problem/1931/D) | Divisible Pairs | [<img src="res/solution.svg">](src/divisible-pairs/main.cpp) | 1300 | 311 ms | 12900 KB |
+| [`1931E`](https://codeforces.com/problemset/problem/1931/E) | Anna and the Valentine's Day Gift | [<img src="res/thinking.svg">](src/anna-and-the-valentines-day-gift/main.cpp) | 1400 | / ms | / KB |
 | [`1932A`](https://codeforces.com/problemset/problem/1932/A) | Thorns and Coins | [<img src="res/solution.svg">](src/thorns-and-coins/main.cpp) | 800 | 46 ms | 0 KB |
 | [`1941A`](https://codeforces.com/problemset/problem/1941/A) | Rudolf and the Ticket | [<img src="res/solution.svg">](src/rudolf-and-the-ticket/main.cpp) | 800 | 46 ms | 0 KB |
 | [`1944A`](https://codeforces.com/problemset/problem/1944/A) | Destroying Bridges | [<img src="res/solution.svg">](src/destroying-bridges/main.cpp) | 800 | 46 ms | 0 KB |
@@ -41,7 +41,7 @@ This repository contains my solutions to some CodeForces exercises. In the table
 | [`1950C`](https://codeforces.com/problemset/problem/1950/C) | Clock Conversion | [<img src="res/solution.svg">](src/clock-conversion/main.cpp) | 800 | 0 ms | 0 KB |
 | [`1950D`](https://codeforces.com/problemset/problem/1950/D) | Product of Binary Decimals | [<img src="res/solution.svg">](src/product-of-binary-decimals/main.cpp) | 1100 | 115 ms | 0 KB |
 | [`1952H`](https://codeforces.com/problemset/problem/1952/H) | Palindrome | [<img src="res/thinking.svg">](src/palindrome/main.cpp) | / | / ms | / KB |
-| [`1955A`](https://codeforces.com/problemset/problem/1955/A) | Yogurt Sale | [<img src="res/solution.svg">](src/yogurt-sale/main.cpp) | 800 | 46 ms | / KB |
+| [`1955A`](https://codeforces.com/problemset/problem/1955/A) | Yogurt Sale | [<img src="res/solution.svg">](src/yogurt-sale/main.cpp) | 800 | 46 ms | 44 KB |
 
 
 <!--

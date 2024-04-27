@@ -11,34 +11,31 @@ using namespace std;
 
 // function definition
 
-bool is_divisible(const int&, const int&);
-
-bool is_beautiful_pair(const int&, const int&, const int&, const int&);
-
 
 int main() {
     
     ios_base::sync_with_stdio(false);
     cin.tie(NULL); 
 
-    int t, n, x, y, a, count;
-    vector<int> v;
+    int t, n, x, y, a;
+    long long count;
+    map<pair<int, int>, int> m;
 
     cin >> t;
 
     while(t--){
-        count = 0; v = {};
+        count = 0;
+        m = {};
                
         cin >> n >> x >> y;
 
         while(n--){
-            cin >> a;
-            v.push_back(a);
             
-            // time complexity is too high
-            for(int i = 0; i < v.size() - 1; i++)
-                if(is_beautiful_pair(v[i], v[v.size() - 1], x, y))
-                    count++;
+            cin >> a;
+
+            count = count + m[ {(x - a % x) % x, a % y} ];
+
+            m[ {a % x, a % y} ] ++;
             
         }
         cout << count << endl;
@@ -46,17 +43,3 @@ int main() {
 
     return 0;
 } // main
-
-
-
-// check if the pair is a beutiful one
-bool is_beautiful_pair(const int& i, const int& j, const int& x, const int& y){
-    return is_divisible(i + j, x) && is_divisible(j - i, y);
-} // is_beautiful_pair
-
-
-
-// check if a number is divisible by another
-bool is_divisible(const int& number, const int& divisor){
-    return !(number % divisor);
-} // is_divisible
