@@ -13,41 +13,18 @@ using namespace std;
 
 int count_zeros(const string&);
 
-int max_index(const vector<pair<string, int>>&);
-
-int get_max_zeros_index(const vector<pair<string, int>>&);
-
-int get_max_zeros_index_except(const vector<pair<string, int>>&, int);
-
-string merge_numbers(const string&, const string&);
-
-void reverse_number(pair<string, int>&);
+void remove_trailing_zeros(pair<string, int>&);
 
 void print_vector(vector<pair<string, int>>& v){
     
     cout << "vector = [ \n";
 
     for(pair<string, int> a : v)
-        cout << "{ " << a.first << "  " << a.second << " }\n";
+        cout << "   { " << a.first << "  " << a.second << " }\n";
 
-    cout << "]" << endl;
+    cout << "];" << endl;
 }
 
-void sort_by_str_size(vector<pair<string, int>>& v) {
-    int n = v.size();
-    pair<string, int> key;
-
-    for (int i = 1; i < n; i++) {
-        key = v[i];
-        int j = i - 1;
-
-        while (j >= 0 && key.first.length() > v[j].first.length()) {
-            v[j + 1] = v[j];
-            j--;
-        }
-        v[j + 1] = key;
-    }
-}
 
 
 
@@ -59,15 +36,16 @@ int main() {
 
 
     int t, n, m;
-    string a, tmp;
+    string a, final;
 
+    pair<string, int> reversed;
     vector<pair<string, int>> v = {};
-    int zeros_idx, max_idx;
 
     cin >> t;
 
     while (t--){
         v.clear();
+        final = "";
 
         cin >> n >> m;
 
@@ -76,31 +54,25 @@ int main() {
             v.push_back({a, count_zeros(a)});
         }
 
+        sort(v.begin(), v.end(), [](const auto& a, const auto& b) {
+                return a.second < b.second;
+        });
 
-        while(v.size() > 1){
+
+        while(v.size() > 1 && final.size() <= m){
             
             // Anna's turn
-            zeros_idx = get_max_zeros_index(v);
-            reverse_number(v[zeros_idx]);
+            remove_trailing_zeros(v[v.size() - 1]);
 
             // Sasha's turn
-            zeros_idx = get_max_zeros_index_except(v, 0);
-            tmp = v[zeros_idx].first;
-            v.erase(v.begin() + zeros_idx);
+            reversed = v.back();
+            v.pop_back();
 
-            a = merge_numbers(tmp, v[0].first);
-            v[0] = {a, count_zeros(a)};
-
-             sort(v.begin(), v.end(), [](const auto& a, const auto& b) {
-                return a.first.size() > b.first.size();
-            });
+            final = final + v.back().first + reversed.first;            
+            v.pop_back();
         }
-
-        // last Anna's turn
-        zeros_idx = get_max_zeros_index(v);
-        reverse_number(v[zeros_idx]);
-
-        if(v[0].first.size() > m)
+            
+        if(!m || final.size() > m)
             cout << "Sasha"<< endl;
         else
             cout << "Anna"<< endl;
@@ -111,36 +83,6 @@ int main() {
 } // main
 
 
-
-
-
-// gets the index of the number with the max trailing zeros
-int get_max_zeros_index(const vector<pair<string, int>>& v){
-
-    int max_zero_index = 0;
-
-    for(int i = 0; i < v.size(); i++)
-            if( v[i].second > v[max_zero_index].second )
-                max_zero_index = i;
-    
-    return max_zero_index;
-
-} // get_max_zeros_index
-
-
-
-// gets the index of the number with the max trailing zeros, except if is in the position p
-int get_max_zeros_index_except(const vector<pair<string, int>>& v, int p){
-
-    int max_zero_index = v.size() - 1 - p;
-
-    for(int i = 0; i < v.size(); i++)
-        if( v[i].second > v[max_zero_index].second && i != p)
-            max_zero_index = i;
-    
-    return max_zero_index;
-
-} // get_max_zeros_index
 
 
 
@@ -160,44 +102,21 @@ int count_zeros(const string& s){
 
 
 
-// given a number n: a0, a1, ..., aN; this function return the reverse of that number: aN, a(N - 1), ..., a0
-void reverse_number(pair<string, int>& s){
+// given a number n this function removes the trailing zeros
+void remove_trailing_zeros(pair<string, int>& p){
+
+    string& s = p.first;
     
-    reverse(s.first.begin(), s.first.end());
-
-    auto it = s.first.begin();
-    while (it != s.first.end() && *it == '0') 
-        it++;
+    int i;
+    for (i = s.size() - 1; i >= 0; i--) {
+        if (s[i] != '0') {
+            break;
+        }
+    }
     
-    s.first.erase(s.first.begin(), it);
-    s.second = count_zeros(s.first);
-
-} // reverse_number
-
-
-
-// returns indexes of the number with max zeros at the end and the max number
-int max_index(const vector<pair<string, int>>& v){
-
-    int max_index = 0;
-
-    for(int i = 1; i < v.size(); i++)
-        if( v[i].first.size() > v[max_index].first.size() )
-            max_index = i;
+    s = s.substr(0, i + 1);
     
+    p.second = 0;
 
-    return max_index;
+} // remove_trailing_zeros
 
-} // find_two_max_index
-
-
-
-// merges two numbers
-string merge_numbers(const string& a, const string& b){
-
-    if(count_zeros(a) > count_zeros(b))
-        return a + b;
-    else
-        return b + a;
-
-} // merge_numbers
