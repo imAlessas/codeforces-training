@@ -41,6 +41,7 @@ This repository contains my solutions to some CodeForces exercises. In the table
 | [`1950C`](https://codeforces.com/problemset/problem/1950/C) | Clock Conversion | [<img src="res/solution.svg">](src/clock-conversion/main.cpp) | 800 | 0 ms | 0 KB |
 | [`1950D`](https://codeforces.com/problemset/problem/1950/D) | Product of Binary Decimals | [<img src="res/solution.svg">](src/product-of-binary-decimals/main.cpp) | 1100 | 115 ms | 0 KB |
 | [`1952H`](https://codeforces.com/problemset/problem/1952/H) | Palindrome | [<img src="res/solution.svg">](src/palindrome/main.cpp) | / | 77 ms | 0 KB |
+| [`1954A`](https://codeforces.com/problemset/problem/1954/A) | Yogurt Sale | [<img src="res/thinking.svg">](src/painting-the-ribbon/main.cpp) | 900 | / ms | / KB |
 | [`1955A`](https://codeforces.com/problemset/problem/1955/A) | Yogurt Sale | [<img src="res/solution.svg">](src/yogurt-sale/main.cpp) | 800 | 46 ms | 44 KB |
 
 
