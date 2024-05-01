@@ -8,18 +8,13 @@
 
 using namespace std;
 
+
 // function definition
 
-int get_max(const vector<int>& v){
+int get_max(const vector<int>&);
 
-    int max = v.back();
 
-    for(int i : v)
-        if(i > max)
-            max = i;
-    
-    return max;
-}
+
 
 
 int main() {
@@ -37,18 +32,28 @@ int main() {
         
         vector<int> v(m);
 
-
-        for(int i = 0; i < n; i++){
+        for(int i = 0; i < n; i++)
             v[i % m]++;
-        }
+        
+        cout << ((k >= n - get_max(v)) ? "no" : "yes") << endl;
 
-        int max = get_max(v);
-
-        if( k > n - max)
-            cout << "no" << endl;
-        else
-            cout << "yes" << endl;
     }
 
     return 0;
 } // main
+
+
+
+
+
+// returns the max value inside the vector
+int get_max(const vector<int>& v){
+
+    int max = v.back();
+
+    for(int i : v)
+        if(i > max)
+            max = i;
+    
+    return max;
+} //  get_max
