@@ -43,6 +43,7 @@ This repository contains my solutions to some CodeForces exercises. In the table
 | [`1952H`](https://codeforces.com/problemset/problem/1952/H) | Palindrome | [<img src="res/solution.svg">](src/palindrome/main.cpp) | / | 77 ms | 0 KB |
 | [`1954A`](https://codeforces.com/problemset/problem/1954/A) | Yogurt Sale | [<img src="res/solution.svg">](src/painting-the-ribbon/main.cpp) | 900 | 61 ms | 0 KB |
 | [`1955A`](https://codeforces.com/problemset/problem/1955/A) | Yogurt Sale | [<img src="res/solution.svg">](src/yogurt-sale/main.cpp) | 800 | 46 ms | 44 KB |
+| [`1955B`](https://codeforces.com/problemset/problem/1955/B) | Progressive Square | [<img src="res/solution.svg">](src/progressive-square/main.cpp) | 1000 | 124 ms | 0 KB |
 
 
 <!--
