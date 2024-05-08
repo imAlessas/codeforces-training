@@ -13,7 +13,8 @@ This repository contains my solutions to some CodeForces exercises. In the table
 | [`4C`](https://codeforces.com/problemset/problem/4/C) | Registration system | [<img src="res/solution.svg">](src/registration-system/main.cpp) | 1300 | 1994 ms | 1300  KB |
 | [`50A`](https://codeforces.com/problemset/problem/50/A) | Domino Piling | [<img src="res/solution.svg">](src/domino-piling/main.cpp) | 800 | 154 ms | 100 KB |
 | [`71A`](https://codeforces.com/problemset/problem/71/A) | Way Too Long Words | [<img src="res/solution.svg">](src/way-too-long-words/main.cpp) | 800 | 15 ms | 0 KB |
-| [`118`](https://codeforces.com/problemset/problem/118/A) | String Task | [<img src="res/solution.svg">](src/string-task/main.cpp) | 1000 | 30 ms | 0 KB |
+| [`112A`](https://codeforces.com/problemset/problem/112/A) | Petya and Strings | [<img src="res/solution.svg">](src/petya-and-strings/main.cpp) | 800 | 124 ms | 0 KB |
+| [`118A`](https://codeforces.com/problemset/problem/118/A) | String Task | [<img src="res/solution.svg">](src/string-task/main.cpp) | 1000 | 30 ms | 0 KB |
 | [`158A`](https://codeforces.com/problemset/problem/158/A) | Next Round | [<img src="res/solution.svg">](src/next-round/main.cpp) | 800 | 60 ms | 0 KB |
 | [`231A`](https://codeforces.com/problemset/problem/231/A) | Team | [<img src="res/solution.svg">](src/team/main.cpp) | 800 | 30 ms | 0 KB |
 | [`263A`](https://codeforces.com/problemset/problem/263/A) | Beautiful Matrix | [<img src="res/solution.svg">](src/beautiful-matrix/main.cpp) | 800 | 0 ms | 0 KB |
