@@ -43,7 +43,7 @@ This repository contains my solutions to some CodeForces exercises. In the table
 | [`1950D`](https://codeforces.com/problemset/problem/1950/D) | Product of Binary Decimals | [<img src="res/solution.svg">](src/product-of-binary-decimals/main.cpp) | 1100 | 115 ms | 0 KB |
 | [`1952H`](https://codeforces.com/problemset/problem/1952/H) | Palindrome | [<img src="res/solution.svg">](src/palindrome/main.cpp) | / | 77 ms | 0 KB |
 | [`1954A`](https://codeforces.com/problemset/problem/1954/A) | Painting the Ribbon | [<img src="res/solution.svg">](src/painting-the-ribbon/main.cpp) | 900 | 61 ms | 0 KB |
-| [`1954B`](https://codeforces.com/problemset/problem/1954/B) | Make It Ugly | [<img src="res/thinking.svg">](src/make-it-ugly/main.cpp) | 1200 | / ms | / KB |
+| [`1954B`](https://codeforces.com/problemset/problem/1954/B) | Make It Ugly | [<img src="res/solution.svg">](src/make-it-ugly/main.cpp) | 1200 | 109 ms | 0 KB |
 | [`1955A`](https://codeforces.com/problemset/problem/1955/A) | Yogurt Sale | [<img src="res/solution.svg">](src/yogurt-sale/main.cpp) | 800 | 46 ms | 44 KB |
 | [`1955B`](https://codeforces.com/problemset/problem/1955/B) | Progressive Square | [<img src="res/solution.svg">](src/progressive-square/main.cpp) | 1000 | 124 ms | 0 KB |
 | [`1956A`](https://codeforces.com/problemset/problem/1956/A) | Nene's Game | [<img src="res/solution.svg">](src/nenes-game/main.cpp) | 800 | 61 ms | 0 KB |

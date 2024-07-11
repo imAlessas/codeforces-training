@@ -18,43 +18,36 @@ int main() {
     ios_base::sync_with_stdio(false);
     cin.tie(NULL); 
 
-    int t, n, a;
-    vector<int> v, w;
-    bool same_numbers;
+    int t, n, m, a, i, initial, ans, lst;
 
     cin >> t;
 
     while(t--){
 
-        v.clear();
-        same_numbers = true;
+        lst = -1;
+        i = 1;
 
-        cin >> n;
+        cin >> n >> initial;
+        m = n;
+        n--;
+
+        ans = m;
 
         while(n--){
             cin >> a;
-            v.push_back(a);
+
+            if( a != initial) {
+                ans = min(ans, i - lst - 1);
+                lst = i;
+            }
+
+            i++;
             
-            if(v.size() > 1)
-                same_numbers = same_numbers && (v[v.size() - 1] == v[v.size() - 2]);
         }
-     
-        n = v.size();
-
-        w = v;
-
-        while(v.front() == v.back())
-            v.pop_back();
         
+        ans = min(ans, m - lst - 1);
 
-        reverse(w.begin(), w.end());
-
-        while(w.front() == w.back())
-            w.pop_back();
-
-        a = min(n - v.size(), n - w.size());
-        
-        cout << ((same_numbers || n == 1) ? -1 : a ) << endl;
+        cout << (ans == m ? -1 : ans) << endl << endl;
         
     }
 
