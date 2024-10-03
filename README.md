@@ -28,6 +28,7 @@ This repository contains my solutions to some CodeForces exercises. In the table
 | [`1918B`](https://codeforces.com/problemset/problem/1918/B) | Minimize Inversions | [<img src="res/solution.svg">](src/minimize-inversions/main.cpp) | 900 | 639  ms | 5400 KB |
 | [`1927B`](https://codeforces.com/problemset/problem/1927/B) | Following the String | [<img src="res/solution.svg">](src/following-the-string/main.cpp) | 900 | 265 ms |  600 KB |
 | [`1930A`](https://codeforces.com/problemset/problem/1930/A) | Maximise The Score | [<img src="res/solution.svg">](src/maximise-the-score/main.cpp) | 800 | 140 ms | 0 KB |
+| [`1930B`](https://codeforces.com/problemset/problem/1930/B) | Permutation Printing | [<img src="res/solution.svg">](src/permutation-printing/main.cpp) | 1000 | 62 ms | 100 KB |
 | [`1931A`](https://codeforces.com/problemset/problem/1931/A) | Recovering a Small String | [<img src="res/solution.svg">](src/recovering-a-small-string/main.cpp) | 800 | 46 ms | 0 KB |
 | [`1931B`](https://codeforces.com/problemset/problem/1931/B) | Make Equal | [<img src="res/solution.svg">](src/make-equal/main.cpp) | 800 | 358 ms | 1600 KB |
 | [`1931C`](https://codeforces.com/problemset/problem/1931/C) | Make Equal Again | [<img src="res/solution.svg">](src/make-equal-again/main.cpp) | 1000 | 264 ms | 2100 KB |
@@ -41,6 +42,7 @@ This repository contains my solutions to some CodeForces exercises. In the table
 | [`1950B`](https://codeforces.com/problemset/problem/1950/B) | Upscaling | [<img src="res/solution.svg">](src/upscaling/main.cpp) | 800 | 15 ms | 0 KB |
 | [`1950C`](https://codeforces.com/problemset/problem/1950/C) | Clock Conversion | [<img src="res/solution.svg">](src/clock-conversion/main.cpp) | 800 | 0 ms | 0 KB |
 | [`1950D`](https://codeforces.com/problemset/problem/1950/D) | Product of Binary Decimals | [<img src="res/solution.svg">](src/product-of-binary-decimals/main.cpp) | 1100 | 115 ms | 0 KB |
+<!-- | [`1951B`](https://codeforces.com/problemset/problem/1951/B) | Battle Cows | [<img src="res/solution.svg">](src/battle-cows/main.cpp) | 1200 | ms | KB | -->
 | [`1952H`](https://codeforces.com/problemset/problem/1952/H) | Palindrome | [<img src="res/solution.svg">](src/palindrome/main.cpp) | / | 77 ms | 0 KB |
 | [`1954A`](https://codeforces.com/problemset/problem/1954/A) | Painting the Ribbon | [<img src="res/solution.svg">](src/painting-the-ribbon/main.cpp) | 900 | 61 ms | 0 KB |
 | [`1954B`](https://codeforces.com/problemset/problem/1954/B) | Make It Ugly | [<img src="res/solution.svg">](src/make-it-ugly/main.cpp) | 1200 | 109 ms | 0 KB |
