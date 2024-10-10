@@ -52,6 +52,7 @@ This repository contains my solutions to some CodeForces exercises. In the table
 | [`1956A`](https://codeforces.com/problemset/problem/1956/A) | Nene's Game | [<img src="res/solution.svg">](src/nenes-game/main.cpp) | 800 | 61 ms | 0 KB |
 | [`1976B`](https://codeforces.com/problemset/problem/1976/B) | Increase/Decrease/Copy | [<img src="res/solution.svg">](src/increase-decrease-copy/main.cpp) | 1100 | 139 ms | 100 KB |
 | [`1976C`](https://codeforces.com/problemset/problem/1976/C) | Job Interview | [<img src="res/time-fail.svg">](src/job-interview/main.cpp) | 1600 | ms | KB |
+| [`2010B`](https://codeforces.com/problemset/problem/2010/B) | Three Brothers | [<img src="res/solution.svg">](src/three-brothers/main.cpp) | 800 | 46 ms | 100 KB |
 
 
 
