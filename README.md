@@ -35,6 +35,7 @@ This repository contains my solutions to some CodeForces exercises. In the table
 | [`1931D`](https://codeforces.com/problemset/problem/1931/D) | Divisible Pairs | [<img src="res/solution.svg">](src/divisible-pairs/main.cpp) | 1300 | 311 ms | 12900 KB |
 | [`1931E`](https://codeforces.com/problemset/problem/1931/E) | Anna and the Valentine's Day Gift | [<img src="res/time-fail.svg">](src/anna-and-the-valentines-day-gift/main.cpp) | 1400 | / ms | / KB |
 | [`1932A`](https://codeforces.com/problemset/problem/1932/A) | Thorns and Coins | [<img src="res/solution.svg">](src/thorns-and-coins/main.cpp) | 800 | 46 ms | 0 KB |
+| [`1933B`](https://codeforces.com/problemset/problem/1933/B) | Turtle Math: Fast Three Task | [<img src="res/solution.svg">](src/turtle-math-fast-three-task/main.cpp) | 800 | ms | KB |
 | [`1941A`](https://codeforces.com/problemset/problem/1941/A) | Rudolf and the Ticket | [<img src="res/solution.svg">](src/rudolf-and-the-ticket/main.cpp) | 800 | 46 ms | 0 KB |
 | [`1944A`](https://codeforces.com/problemset/problem/1944/A) | Destroying Bridges | [<img src="res/solution.svg">](src/destroying-bridges/main.cpp) | 800 | 46 ms | 0 KB |
 | [`1948A`](https://codeforces.com/problemset/problem/1948/A) | Special Characters | [<img src="res/solution.svg">](src/special-characters/main.cpp) | 800 | 30 ms | 0 KB |
@@ -42,7 +43,6 @@ This repository contains my solutions to some CodeForces exercises. In the table
 | [`1950B`](https://codeforces.com/problemset/problem/1950/B) | Upscaling | [<img src="res/solution.svg">](src/upscaling/main.cpp) | 800 | 15 ms | 0 KB |
 | [`1950C`](https://codeforces.com/problemset/problem/1950/C) | Clock Conversion | [<img src="res/solution.svg">](src/clock-conversion/main.cpp) | 800 | 0 ms | 0 KB |
 | [`1950D`](https://codeforces.com/problemset/problem/1950/D) | Product of Binary Decimals | [<img src="res/solution.svg">](src/product-of-binary-decimals/main.cpp) | 1100 | 115 ms | 0 KB |
-<!-- | [`1951B`](https://codeforces.com/problemset/problem/1951/B) | Battle Cows | [<img src="res/solution.svg">](src/battle-cows/main.cpp) | 1200 | ms | KB | -->
 | [`1952H`](https://codeforces.com/problemset/problem/1952/H) | Palindrome | [<img src="res/solution.svg">](src/palindrome/main.cpp) | / | 77 ms | 0 KB |
 | [`1954A`](https://codeforces.com/problemset/problem/1954/A) | Painting the Ribbon | [<img src="res/solution.svg">](src/painting-the-ribbon/main.cpp) | 900 | 61 ms | 0 KB |
 | [`1954B`](https://codeforces.com/problemset/problem/1954/B) | Make It Ugly | [<img src="res/solution.svg">](src/make-it-ugly/main.cpp) | 1200 | 109 ms | 0 KB |
@@ -54,6 +54,8 @@ This repository contains my solutions to some CodeForces exercises. In the table
 | [`1976C`](https://codeforces.com/problemset/problem/1976/C) | Job Interview | [<img src="res/time-fail.svg">](src/job-interview/main.cpp) | 1600 | ms | KB |
 | [`2010B`](https://codeforces.com/problemset/problem/2010/B) | Three Brothers | [<img src="res/solution.svg">](src/three-brothers/main.cpp) | 800 | 46 ms | 100 KB |
 
+<!-- | [`1951B`](https://codeforces.com/problemset/problem/1951/B) | Battle Cows | [<img src="res/solution.svg">](src/battle-cows/main.cpp) | 1200 | ms | KB | -->
+
 
 
 <!--
@@ -61,3 +63,5 @@ This repository contains my solutions to some CodeForces exercises. In the table
 -->
 
 <!-- SVG: www.svgrepo.com, line white, size 45px padding 50% -->
+
+
