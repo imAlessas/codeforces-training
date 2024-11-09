@@ -50,6 +50,7 @@ This repository contains my solutions to some CodeForces exercises. In the table
 | [`1954C`](https://codeforces.com/problemset/problem/1954/C) | Long Multiplication | [<img src="res/solution.svg">](src/long-multiplication/main.cpp) | 1200 | 77 ms | 100 KB |
 | [`1955A`](https://codeforces.com/problemset/problem/1955/A) | Yogurt Sale | [<img src="res/solution.svg">](src/yogurt-sale/main.cpp) | 800 | 46 ms | 44 KB |
 | [`1955B`](https://codeforces.com/problemset/problem/1955/B) | Progressive Square | [<img src="res/solution.svg">](src/progressive-square/main.cpp) | 1000 | 124 ms | 0 KB |
+| [`1955B`](https://codeforces.com/problemset/problem/1955/C) | Inhabitant of the Deep Sea | [<img src="res/solution.svg">](src/inhabitant-of-the-deep-sea/main.cpp) | 1300 | 108 ms | 52 KB |
 | [`1956A`](https://codeforces.com/problemset/problem/1956/A) | Nene's Game | [<img src="res/solution.svg">](src/nenes-game/main.cpp) | 800 | 61 ms | 0 KB |
 | [`1976B`](https://codeforces.com/problemset/problem/1976/B) | Increase/Decrease/Copy | [<img src="res/solution.svg">](src/increase-decrease-copy/main.cpp) | 1100 | 139 ms | 100 KB |
 | [`1976C`](https://codeforces.com/problemset/problem/1976/C) | Job Interview | [<img src="res/time-fail.svg">](src/job-interview/main.cpp) | 1600 | ms | KB |
