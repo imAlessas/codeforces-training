@@ -37,8 +37,7 @@ int main() {
         cin >> n >> k;
         k--;  // Convert 1-based index to 0-based for array access
 
-        // Read vector elements
-        for (int i = 0; i < n; i++) {
+        while(n--) {
             cin >> tmp;
             a.push_back(tmp);
         }

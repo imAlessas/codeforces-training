@@ -43,7 +43,7 @@ This repository contains my solutions to some CodeForces exercises. In the table
 | [`1950B`](https://codeforces.com/problemset/problem/1950/B) | Upscaling | [<img src="res/solution.svg">](src/upscaling/main.cpp) | 800 | 15 ms | 0 KB |
 | [`1950C`](https://codeforces.com/problemset/problem/1950/C) | Clock Conversion | [<img src="res/solution.svg">](src/clock-conversion/main.cpp) | 800 | 0 ms | 0 KB |
 | [`1950D`](https://codeforces.com/problemset/problem/1950/D) | Product of Binary Decimals | [<img src="res/solution.svg">](src/product-of-binary-decimals/main.cpp) | 1100 | 115 ms | 0 KB |
-| [`1951B`](https://codeforces.com/problemset/problem/1951/B) | Battle Cows | [<img src="res/solution.svg">](src/battle-cows/main.cpp) | 1200 | 93 ms | 0 KB |
+| [`1951B`](https://codeforces.com/problemset/problem/1951/B) | Battle Cows | [<img src="res/solution.svg">](src/battle-cows/main.cpp) | 1200 | 108 ms | 100 KB |
 | [`1952H`](https://codeforces.com/problemset/problem/1952/H) | Palindrome | [<img src="res/solution.svg">](src/palindrome/main.cpp) | / | 77 ms | 0 KB |
 | [`1954A`](https://codeforces.com/problemset/problem/1954/A) | Painting the Ribbon | [<img src="res/solution.svg">](src/painting-the-ribbon/main.cpp) | 900 | 61 ms | 0 KB |
 | [`1954B`](https://codeforces.com/problemset/problem/1954/B) | Make It Ugly | [<img src="res/solution.svg">](src/make-it-ugly/main.cpp) | 1200 | 109 ms | 0 KB |
