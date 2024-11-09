@@ -35,7 +35,7 @@ This repository contains my solutions to some CodeForces exercises. In the table
 | [`1931D`](https://codeforces.com/problemset/problem/1931/D) | Divisible Pairs | [<img src="res/solution.svg">](src/divisible-pairs/main.cpp) | 1300 | 311 ms | 12900 KB |
 | [`1931E`](https://codeforces.com/problemset/problem/1931/E) | Anna and the Valentine's Day Gift | [<img src="res/time-fail.svg">](src/anna-and-the-valentines-day-gift/main.cpp) | 1400 | / ms | / KB |
 | [`1932A`](https://codeforces.com/problemset/problem/1932/A) | Thorns and Coins | [<img src="res/solution.svg">](src/thorns-and-coins/main.cpp) | 800 | 46 ms | 0 KB |
-| [`1933B`](https://codeforces.com/problemset/problem/1933/B) | Turtle Math: Fast Three Task | [<img src="res/solution.svg">](src/turtle-math-fast-three-task/main.cpp) | 800 | ms | KB |
+| [`1933B`](https://codeforces.com/problemset/problem/1933/B) | Turtle Math: Fast Three Task | [<img src="res/solution.svg">](src/turtle-math-fast-three-task/main.cpp) | 800 | 77 ms | 100 KB |
 | [`1941A`](https://codeforces.com/problemset/problem/1941/A) | Rudolf and the Ticket | [<img src="res/solution.svg">](src/rudolf-and-the-ticket/main.cpp) | 800 | 46 ms | 0 KB |
 | [`1944A`](https://codeforces.com/problemset/problem/1944/A) | Destroying Bridges | [<img src="res/solution.svg">](src/destroying-bridges/main.cpp) | 800 | 46 ms | 0 KB |
 | [`1948A`](https://codeforces.com/problemset/problem/1948/A) | Special Characters | [<img src="res/solution.svg">](src/special-characters/main.cpp) | 800 | 30 ms | 0 KB |
