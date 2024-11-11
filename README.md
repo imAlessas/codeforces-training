@@ -37,7 +37,7 @@ This repository contains my solutions to some CodeForces exercises. In the table
 | [`1932A`](https://codeforces.com/problemset/problem/1932/A) | Thorns and Coins | [![Solution](res/solution.svg)](src/thorns-and-coins/main.cpp) | 800 | 46 ms | 0 KB | ![C++](res/cpp.svg) |
 | [`1933B`](https://codeforces.com/problemset/problem/1933/B) | Turtle Math: Fast Three Task | [![Solution](res/solution.svg)](src/turtle-math-fast-three-task/main.cpp) | 800 | 77 ms | 100 KB | ![C++](res/cpp.svg) |
 | [`1941A`](https://codeforces.com/problemset/problem/1941/A) | Rudolf and the Ticket | [![Solution](res/solution.svg)](src/rudolf-and-the-ticket/main.cpp) | 800 | 46 ms | 0 KB | ![C++](res/cpp.svg) |
-| [`1941B`](https://codeforces.com/problemset/problem/1941/B) | Rudolf and 121 | [![Solution](res/solution.svg)](src/folder/main.cpp) | 1000 | 202 ms | 25840 KB | ![Python](res/python.svg) |
+| [`1941B`](https://codeforces.com/problemset/problem/1941/B) | Rudolf and 121 | [![Solution](res/solution.svg)](src/folder/main.cpp) | 1000 | 202 ms | 25700  KB | ![Python](res/python.svg) |
 | [`1944A`](https://codeforces.com/problemset/problem/1944/A) | Destroying Bridges | [![Solution](res/solution.svg)](src/destroying-bridges/main.cpp) | 800 | 46 ms | 0 KB | ![C++](res/cpp.svg) |
 | [`1948A`](https://codeforces.com/problemset/problem/1948/A) | Special Characters | [![Solution](res/solution.svg)](src/special-characters/main.cpp) | 800 | 30 ms | 0 KB | ![C++](res/cpp.svg) |
 | [`1950A`](https://codeforces.com/problemset/problem/1950/A) | Stair, Peak, or Neither? | [![Solution](res/solution.svg)](src/stair-peak-or-neither/main.cpp) | 800 | 15 ms | 0 KB | ![C++](res/cpp.svg) |
