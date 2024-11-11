@@ -4,41 +4,24 @@
                 https://codeforces.com/problemset/problem/1969/B
 '''
 
-# Function definition
-
-
-# Take the last characted and shift it at idx=0
-def cycle_string(substr):
-    return substr[-1] + substr[:-1]
-
-
-
 def main():
 
     for _ in range(int(input())):
 
         s = input()
 
+        zeros = s.count('0')
+
         count = 0
-        for i in range(len(s) - 1):
-            
-            if s[i] == '1':
+        count_dict = { '0' : 0, '1' : 0 }
 
-                j = i
+        for c in s:
+            count_dict[c] += 1
 
-                # Get to the first 0
-                while j < len(s) - 1 and s[j] != '0':
-                    j += 1
-
-
-                if j == len(s)-1 and s[j] == '1':
-                    break
-
-                count += j - i + 1
-
-                # Cycle the string
-                j += 1
-                s = s[:i] + cycle_string(s[i : j]) + s[j:]
+            if c == '0':
+                count += (1 if count_dict['1'] > 0 else 0)
+            else:
+                count += zeros - count_dict['0']
 
         print(count)
 
