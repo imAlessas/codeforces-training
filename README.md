@@ -27,7 +27,7 @@ This repository contains my solutions to some CodeForces exercises. In the table
 | [`1915A`](https://codeforces.com/problemset/problem/1915/A) | Odd One Out | [![solution](res/solution.svg)](src/odd-one-out/main.cpp) | 800 | 46 ms | 100 KB | ![cpp](res/cpp.svg) |
 | [`1918B`](https://codeforces.com/problemset/problem/1918/B) | Minimize Inversions | [![solution](res/solution.svg)](src/minimize-inversions/main.cpp) | 900 | 639  ms | 5400 KB | ![cpp](res/cpp.svg) |
 | [`1927B`](https://codeforces.com/problemset/problem/1927/B) | Following the String | [![solution](res/solution.svg)](src/following-the-string/main.cpp) | 900 | 265 ms |  600 KB | ![cpp](res/cpp.svg) |
-| [`1927C`](https://codeforces.com/problemset/problem/1927/C) | Choose the Different Ones! | [![thinking](res/thinking.svg)](src/choose-the-different-ones/main.py) | 1000 | /ms | /KB | ![python](res/python.svg) |
+| [`1927C`](https://codeforces.com/problemset/problem/1927/C) | Choose the Different Ones! | [![time-fail](res/time-fail.svg)](src/choose-the-different-ones/main.py) | 1000 | /ms | /KB | ![python](res/python.svg) |
 | [`1930A`](https://codeforces.com/problemset/problem/1930/A) | Maximise The Score | [![solution](res/solution.svg)](src/maximise-the-score/main.cpp) | 800 | 140 ms | 0 KB | ![cpp](res/cpp.svg) |
 | [`1930B`](https://codeforces.com/problemset/problem/1930/B) | Permutation Printing | [![solution](res/solution.svg)](src/permutation-printing/main.cpp) | 1000 | 62 ms | 100 KB | ![cpp](res/cpp.svg) |
 | [`1931A`](https://codeforces.com/problemset/problem/1931/A) | Recovering a Small String | [![solution](res/solution.svg)](src/recovering-a-small-string/main.cpp) | 800 | 46 ms | 0 KB | ![cpp](res/cpp.svg) |
