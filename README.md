@@ -34,7 +34,7 @@ This repository contains my solutions to some CodeForces exercises. In the table
 | [`1931B`](https://codeforces.com/problemset/problem/1931/B) | Make Equal | [![solution](res/solution.svg)](src/make-equal/main.cpp) | 800 | 358 ms | 1600 KB | ![cpp](res/cpp.svg) |
 | [`1931C`](https://codeforces.com/problemset/problem/1931/C) | Make Equal Again | [![solution](res/solution.svg)](src/make-equal-again/main.cpp) | 1000 | 264 ms | 2100 KB | ![cpp](res/cpp.svg) |
 | [`1931D`](https://codeforces.com/problemset/problem/1931/D) | Divisible Pairs | [![solution](res/solution.svg)](src/divisible-pairs/main.cpp) | 1300 | 311 ms | 12900 KB | ![cpp](res/cpp.svg) |
-| [`1931E`](https://codeforces.com/problemset/problem/1931/E) | Anna and the Valentine's Day Gift | [![time-fail](res/time-fail.svg)](src/anna-and-the-valentines-day-gift/main.cpp) | 1400 | / ms | / KB | ![cpp](res/cpp.svg) |
+| [`1931E`](https://codeforces.com/problemset/problem/1931/E) | Anna and the Valentine's Day Gift | [![TLE](res/TLE.svg)](src/anna-and-the-valentines-day-gift/main.cpp) | 1400 | / ms | / KB | ![cpp](res/cpp.svg) |
 | [`1932A`](https://codeforces.com/problemset/problem/1932/A) | Thorns and Coins | [![solution](res/solution.svg)](src/thorns-and-coins/main.cpp) | 800 | 46 ms | 0 KB | ![cpp](res/cpp.svg) |
 | [`1933B`](https://codeforces.com/problemset/problem/1933/B) | Turtle Math: Fast Three Task | [![solution](res/solution.svg)](src/turtle-math-fast-three-task/main.cpp) | 800 | 77 ms | 100 KB | ![cpp](res/cpp.svg) |
 | [`1941A`](https://codeforces.com/problemset/problem/1941/A) | Rudolf and the Ticket | [![solution](res/solution.svg)](src/rudolf-and-the-ticket/main.cpp) | 800 | 46 ms | 0 KB | ![cpp](res/cpp.svg) |
@@ -56,7 +56,7 @@ This repository contains my solutions to some CodeForces exercises. In the table
 | [`1956A`](https://codeforces.com/problemset/problem/1956/A) | Nene's Game | [![solution](res/solution.svg)](src/nenes-game/main.cpp) | 800 | 61 ms | 0 KB | ![cpp](res/cpp.svg) |
 | [`1969B`](https://codeforces.com/problemset/problem/1969/B) | Shifts and Sorting | [![solution](res/solution.svg)](src/shifts-and-sorting/main.py) | 1000 | 124 ms | 0 KB | ![python](res/python.svg) |
 | [`1976B`](https://codeforces.com/problemset/problem/1976/B) | Increase/Decrease/Copy | [![solution](res/solution.svg)](src/increase-decrease-copy/main.cpp) | 1100 | 139 ms | 100 KB | ![cpp](res/cpp.svg) |
-| [`1976C`](https://codeforces.com/problemset/problem/1976/C) | Job Interview | [![time-fail](res/time-fail.svg)](src/job-interview/main.cpp) | 1600 | ms | KB | ![cpp](res/cpp.svg) |
+| [`1976C`](https://codeforces.com/problemset/problem/1976/C) | Job Interview | [![TLE](res/TLE.svg)](src/job-interview/main.cpp) | 1600 | ms | KB | ![cpp](res/cpp.svg) |
 | [`2010B`](https://codeforces.com/problemset/problem/2010/B) | Three Brothers | [![solution](res/solution.svg)](src/three-brothers/main.cpp) | 800 | 46 ms | 100 KB | ![cpp](res/cpp.svg) |
 
 <!--
