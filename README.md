@@ -55,6 +55,7 @@ This repository contains my solutions to some CodeForces exercises. In the table
 | [`1955B`](https://codeforces.com/problemset/problem/1955/C) | Inhabitant of the Deep Sea | [![solution](res/solution.svg)](src/inhabitant-of-the-deep-sea/main.cpp) | 1300 | 108 ms | 52 KB | ![cpp](res/cpp.svg) |
 | [`1956A`](https://codeforces.com/problemset/problem/1956/A) | Nene's Game | [![solution](res/solution.svg)](src/nenes-game/main.cpp) | 800 | 61 ms | 0 KB | ![cpp](res/cpp.svg) |
 | [`1969B`](https://codeforces.com/problemset/problem/1969/B) | Shifts and Sorting | [![solution](res/solution.svg)](src/shifts-and-sorting/main.py) | 1000 | 124 ms | 0 KB | ![python](res/python.svg) |
+| [`1971C`](https://codeforces.com/problemset/problem/1971/C) | Clock and Strings | [![solution](res/solution.svg)](src/clock-and-strings/main.py) | 900 | 108  ms | 0 KB | ![python](res/python.svg) |
 | [`1976B`](https://codeforces.com/problemset/problem/1976/B) | Increase/Decrease/Copy | [![solution](res/solution.svg)](src/increase-decrease-copy/main.cpp) | 1100 | 139 ms | 100 KB | ![cpp](res/cpp.svg) |
 | [`1976C`](https://codeforces.com/problemset/problem/1976/C) | Job Interview | [![TLE](res/TLE.svg)](src/job-interview/main.cpp) | 1600 | ms | KB | ![cpp](res/cpp.svg) |
 | [`2010B`](https://codeforces.com/problemset/problem/2010/B) | Three Brothers | [![solution](res/solution.svg)](src/three-brothers/main.cpp) | 800 | 46 ms | 100 KB | ![cpp](res/cpp.svg) |
