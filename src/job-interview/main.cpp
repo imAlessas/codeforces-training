@@ -18,7 +18,7 @@ int main() {
     ios_base::sync_with_stdio(false);
     cin.tie(NULL); 
 
-    int t, a, n, m, total, curr_points, n_double, m_double;
+    int t, a, n, m, total, curr_points, n_double, m_double, mismatch;
     vector<int> prog = {}, test = {}, team_points = {};
     vector<pair<int, int>> missing_people = {};
 
@@ -75,39 +75,46 @@ int main() {
             }
             
             missing_people[i] = {n_double, m_double};
+            mismatch = i;
 
         }
 
 
-        for( int j = 0; j < total; j++ ){
+        // for( int j = 0; j < total; j++ ){
 
-            curr_points = (j - 1 < 0) ? 0 : team_points[j - 1];
-            n_double = (j - 1 < 0) ? n : missing_people[j - 1].first;
-            m_double = (j - 1 < 0) ? m : missing_people[j - 1].second;
+        //     curr_points = (j - 1 < 0) ? 0 : team_points[j - 1];
+        //     n_double = (j - 1 < 0) ? n : missing_people[j - 1].first;
+        //     m_double = (j - 1 < 0) ? m : missing_people[j - 1].second;
                 
-            for( int i = j + 1; i < total; i++ ){
+        //     for( int i = j + 1; i < total; i++ ){
 
-                if( prog[i] > test[i] ) {
-                    if( n_double ) {
-                        curr_points += prog[i];
-                        n_double--;
-                    } else {
-                        curr_points += test[i];
-                        m_double--;
-                    }
-                } else {
-                    if( m_double ) {
-                        curr_points += test[i];
-                        m_double--;
-                    } else {
-                        curr_points += prog[i];
-                        n_double--;
-                    }
-                }
+        //         if( prog[i] > test[i] ) {
+        //             if( n_double ) {
+        //                 curr_points += prog[i];
+        //                 n_double--;
+        //             } else {
+        //                 curr_points += test[i];
+        //                 m_double--;
+        //             }
+        //         } else {
+        //             if( m_double ) {
+        //                 curr_points += test[i];
+        //                 m_double--;
+        //             } else {
+        //                 curr_points += prog[i];
+        //                 n_double--;
+        //             }
+        //         }
                 
-            }
+        //     }
 
-            cout << curr_points << " ";
+        //     cout << curr_points << " ";
+        // }
+
+        for( int i = 0; i < total; i++ ){
+
+            
+
         }
 
         cout << endl << endl;
